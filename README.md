@@ -14,7 +14,7 @@ gh repo clone CarlosMendez1997Col/Evaluate-climate-change-using-ArcGIS-API-for-P
 
 ## Description
 
-Repository builded in `Arcgis for Python` and `ArcGIS Maps SDK for JavaScript`.
+Repository built in `Arcgis for Python` and `ArcGIS Maps SDK for JavaScript`.
 
 Each chapter is described below:
 
